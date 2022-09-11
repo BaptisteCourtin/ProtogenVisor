@@ -1,6 +1,6 @@
 //***************************** BLUETOOTH ************************************
 /*
-BUT : send a number / letter with phone by bluetooth and it will change expressions
+GOAL : send a number / letter with phone by bluetooth and it will change expressions
 
 
 
